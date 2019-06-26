@@ -8,4 +8,4 @@ The `urlTextReader.py` summarizes the text of the text parsed by the site given 
 - NLTK  --> pip install nltk
 - Beautiful Soup --> `pip install beautifulsoup4`
 
-It is simple to understand. The basic idea is to count the frequency of the words occuring on the text and assume that highest occuring words are important given the threshold of occurence and based upon it, summarize the text.
+#### It is simple to understand. The basic idea is to count the frequency of the words occuring on the text and assume that highest occuring words are important given the threshold of occurence and based upon it, summarize the text.
